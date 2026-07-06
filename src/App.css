@@ -790,3 +790,13 @@ a {
     transform: scale(1);
   }
 }
+
+.btn-primary {
+  background-color: #2e7d32 !important;
+  border-color: #2e7d32 !important;
+}
+
+.btn-success {
+  background-color: #588f27 !important;
+  border-color: #588f27 !important;
+}
